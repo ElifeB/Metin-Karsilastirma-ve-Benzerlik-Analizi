@@ -1,1 +1,2 @@
-# odev4
+# Metin Karşılaştırma ve Benzerlik Analizi
+Bu repo, kullanıcı tarafından girilen iki metni SQLite veritabanına yükleyen ve bu metinlerin birbirine olan benzerliğini hesaplayan bir Python projesini içeriyor. Projede, Jaccard benzerlik katsayısı veya başka bir özgün yöntem kullanılarak metinler arasındaki benzerlik oranı hesaplanmaktadır. Bu benzerlik oranı hem ekranda gösterilmekte hem de "benzerlik durumu" isimli bir txt dosyasına yazdırılmaktadır.
